@@ -26,14 +26,13 @@ highlight_style_sheet:
 reveal_notes_server: false
 
 # Additional reveal.js options
-reveal_options: 
-  - 'controls: "false"'
+reveal_options: 'controls: false'
 
 # Additional reveal.js dependencies
 reveal_dependencies: 
 
 # Reveal.js subdirectory
-reveal_path: reveal.js/
+reveal_path: reveal.js-3.9.2/
 
 # Exclude directories and/or files from the conversion
 exclude:
