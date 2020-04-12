@@ -32,7 +32,7 @@ reveal_options: 'controls: false, controlsLayout: "bottom-center"'
 reveal_dependencies: 
 
 # Reveal.js subdirectory
-reveal_path: reveal.js-3.9.2/
+reveal_path: reveal.js/
 
 # Exclude directories and/or files from the conversion
 exclude:
