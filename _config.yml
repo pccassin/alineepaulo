@@ -1,17 +1,17 @@
 # Your presentation title
-title: Casamento Aline & Paulo
+title: Um convite para você...
 
 # Your presentation description (optional)
-description: Compartilhe este momento com a gente...
+description: Acesse e descubra!
 
 # Your name (optional)
-author: pccassin
+author: Aline e Paulo
 
 # The Reveal theme
-reveal_theme: black.css
+reveal_theme: simple.css
 
 # The Reveal transition
-reveal_transition: default
+reveal_transition: slide
 
 # Path to the used theme (defaults to the Reveal.js standard theme path)
 reveal_theme_path: reveal.js/css/theme/ 
@@ -27,6 +27,7 @@ reveal_notes_server: false
 
 # Additional reveal.js options
 reveal_options: 
+  - 'controls: false'
 
 # Additional reveal.js dependencies
 reveal_dependencies: 
