@@ -28,7 +28,7 @@ reveal_notes_server: false
 # Additional reveal.js options
 reveal_options: 
   - 'controls: true'
-  - 'controlsLayout: bottom-center'
+  - 'controlsLayout: 'bottom-center''
 
 # Additional reveal.js dependencies
 reveal_dependencies: 
